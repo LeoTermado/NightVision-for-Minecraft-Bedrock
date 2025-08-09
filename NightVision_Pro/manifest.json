@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Night Vision Toggle (Bedrock)",
+    "description": "Per-player Night Vision toggle: /function nv/init once, then /function nv/on or /function nv/off.",
+    "uuid": "f35620c3-d6fe-42e8-ab98-da456fdc0a5c",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "1e6bb7a9-548f-4237-a78c-7e41440003ff",
+      "version": [1, 0, 0],
+      "description": "Night Vision behavior module"
+    }
+  ],
+  "metadata": {
+    "authors": ["LeoTermado"],
+    "license": "MIT"
+  }
+}

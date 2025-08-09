@@ -1,0 +1,21 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Night Vision (Always On)",
+    "description": "Applies Night Vision to all players automatically.",
+    "uuid": "8cf23be1-0e0a-46c7-90b7-29ae48692f93",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "80626c1c-3659-41ff-9601-f19e4ea04325",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["LeoTermado"],
+    "license": "MIT"
+  }
+}

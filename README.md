@@ -1,4 +1,4 @@
-Night Vision Toggle (Bedrock) – Behavior Pack
+### Night Vision Toggle (Bedrock) – Behavior Pack
 
 ## What it does
 - Gives each player a personal Night Vision toggle.

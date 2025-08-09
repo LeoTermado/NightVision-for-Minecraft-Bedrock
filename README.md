@@ -1,5 +1,17 @@
 ### Night Vision Toggle (Bedrock) – Behavior Pack
 
+---
+
+## 📦 Pack Info
+
+- **Name:** NightVision_Pro  
+- **Version:** 1.1.0  
+- **Release Date:** August 2025  
+- **Creator:** Leo Termado  
+- **Instagram:** [@leo.tdo](https://instagram.com/leo.tdo)
+
+---
+
 ## What it does
 - Gives each player a personal Night Vision toggle.
 - Works in multiplayer. Keeps particles hidden.
